@@ -1,7 +1,10 @@
 # The_Jumping_Pac
 Project Title: The Jumping Pac
+
 Description: Developed a Jumping Pac game using the C programming language with graphics support. In this game, players control a character that can jump and collect circles with different colors while avoiding collisions with obstacles.
+
 Technologies: C, Graphics library 
+
 Key Features:
 1. User-Controlled Jumping: Implemented a responsive and intuitive control system that allows players to make the character jump using keyboard inputs. The character's jumping height and timing provide a dynamic gameplay experience.
 2. Graphics and Animation: Utilized a graphics library to create visually appealing elements, including the character, colored circles, and vibrant backgrounds. The game features smooth animation, making the character's movements fluid and engaging.
